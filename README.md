@@ -1,7 +1,7 @@
 ### 👋 Introduction
 
-[![Linkedin Badge](https://img.shields.io/badge/-Karthik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-prasad/)](https://www.linkedin.com/in/karthik-prasad/)
-[![Gmail Badge](https://img.shields.io/badge/-karthikprasad62@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikprasad62@gmail.com)](mailto:karthikprasad62@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-prasad/)](https://www.linkedin.com/in/karthik-prasad/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikprasad62@gmail.com)](mailto:karthikprasad62@gmail.com)
 
 I'm **Karthik Prasad**, a 3rd year student in the management engineering program at the University in Waterloo. I'm very passionate about software development, specifically in the fields of AI/ML, and web development. By helping build a startup from scratch with experts in their field, I have learnt about how a product is created and behaves/changes over time through design principles, software decisions and implementations as well as various issues that may occur in startups. In the future, I am eager to work at other companies and learn more about the software engineering world.
 
