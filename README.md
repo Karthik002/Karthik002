@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-prasad/)](https://www.linkedin.com/in/karthik-prasad/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthikprasad62@gmail.com)](mailto:karthikprasad62@gmail.com)
 
-I'm **Karthik Prasad**, a 4th year student in the management engineering program at the University in Waterloo. I'm very passionate about software development, specifically in the fields of AI/ML, and web development. I am part of the founding group of KranionAI, a startup company focused on cognition with the elderly. By helping build a startup from scratch with experts in their field, I have learnt about how a product is created and behaves/changes over time through design principles, software decisions and implementations as well as various issues that may occur in startups. In the future, I am eager to work at other companies and learn more about the software engineering world.
+I'm **Karthik Prasad**, a 4th year student in the management engineering program at the University in Waterloo. I'm very passionate about software development, specifically in the fields of AI/ML, and game development. Feel free to reach out to me if you have any questions about any of my projects or just want to chat!
 
 ### 💡 Recent Projects
 - [**i4 Spaceport Virtual Simulation**](https://github.com/Karthik002/i4-spaceport)
